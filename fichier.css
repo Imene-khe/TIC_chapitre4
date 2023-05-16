@@ -1,0 +1,22 @@
+.a {
+
+font-size: 17px;
+}
+.d{
+ font-size: 28px;
+text-decoration: underline;
+
+}
+.t{
+    text-align: center;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+      body {
+        background-image: url("bruh/19366.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+    
